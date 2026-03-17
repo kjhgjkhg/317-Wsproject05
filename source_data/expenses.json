@@ -1,0 +1,26 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 50.5,
+      "category": "餐饮",
+      "date": "2026-03-17",
+      "description": "午餐"
+    },
+    {
+      "id": 2,
+      "amount": 200.0,
+      "category": "购物",
+      "date": "2026-03-15",
+      "description": "购买日用品"
+    },
+    {
+      "id": 3,
+      "amount": 35.0,
+      "category": "交通",
+      "date": "2026-03-17",
+      "description": "地铁"
+    }
+  ],
+  "next_id": 4
+}
